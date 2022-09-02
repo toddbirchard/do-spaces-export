@@ -29,4 +29,4 @@ Get up and running with `make deploy`:
 $ git clone https://github.com/toddbirchard/do-spaces-export.git
 $ cd do-spaces-export
 $ make deploy
-``` 
+```
