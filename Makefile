@@ -53,9 +53,7 @@ install: env
 
 .PHONY: deploy
 deploy:
-	make clean \
-	make install \
-	make run
+	make clean; make install; make run
 
 
 .PHONY: test
